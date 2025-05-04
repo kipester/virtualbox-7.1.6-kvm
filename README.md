@@ -3,7 +3,7 @@ My own, not official development repository for Debian Trixie Virtualbox-7.1.6 w
 
 Originally forged from https://github.com/cyberus-technology/virtualbox-kvm
 
-Tested on Debian 13 Trixie AMD and Intel 64-bit platforms. Full of bugs, but usable for testing.
+Tested on Debian 13 Trixie AMD and Intel 64-bit platforms. Full of bugs, but working and usable for testing. Mainly networking issues, which you can find explanation from cyberus-technologys site.
 
 Quick start:
 
@@ -32,3 +32,6 @@ Run the script:
 ```
 ./vboxkvm-install-script.sh
 ```
+There is also uninstall-script here: https://github.com/kipester/virtualbox-7.1.6-kvm/blob/main/vboxkvm-uninstall-script.sh
+
+Which you can use same way as install-script above.
