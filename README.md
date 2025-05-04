@@ -5,7 +5,7 @@ Originally forged from https://github.com/cyberus-technology/virtualbox-kvm
 
 Tested on Debian 13 Trixie AMD and Intel 64-bit platforms. Full of bugs, but working and usable for testing. Mainly networking issues, which you can find explanation from cyberus-technologys site.
 
-Quick start:
+Simple Quick and dirty start:
 
 Do all next steps in your home folder.
 
